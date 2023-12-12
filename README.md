@@ -17,10 +17,8 @@ The JavaScript code utilizes an array (`nameList`) to manage user names and a co
 - **filtrar:** Filters the user list based on the input search field.
 - **remover:** Removes the selected user from the list.
 
-## How to Use
-1. Clone the repository.
-2. Open the HTML file in a web browser.
-3. Interact with the user management system by adding, filtering, and removing names.
+## How to View
+To view the website, simply [click here](https://sammsouzaa.github.io/Web-User-Management-System/) (add a link to your deployed website if applicable). Alternatively, you can clone the repository and open the `index.html` file in your preferred web browser.
 
 ## Screenshots
 Include screenshots of the web interface, showcasing the different features of the user management system.
